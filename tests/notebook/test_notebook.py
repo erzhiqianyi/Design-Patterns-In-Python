@@ -1,6 +1,6 @@
 import unittest
 
-from notebook.notebook import Note, NoteBook
+from notebook.note_book import Note, NoteBook
 
 
 class NoteMatchTestCase(unittest.TestCase):
